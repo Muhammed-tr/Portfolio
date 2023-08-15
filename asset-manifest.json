@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/https//Muhammed-tr.githup.io/Portfolio/static/css/main.278fa111.css",
+    "main.js": "/https//Muhammed-tr.githup.io/Portfolio/static/js/main.72f91405.js",
+    "static/media/Portfolio.pdf": "/https//Muhammed-tr.githup.io/Portfolio/static/media/Portfolio.c0c91721447dc0d64c9f.pdf",
+    "static/media/project3.png": "/https//Muhammed-tr.githup.io/Portfolio/static/media/project3.448b0b9664b0094382f2.png",
+    "static/media/project2.png": "/https//Muhammed-tr.githup.io/Portfolio/static/media/project2.7521c913f1c36718c191.png",
+    "static/media/project1.png": "/https//Muhammed-tr.githup.io/Portfolio/static/media/project1.f48224a24cf10d69894a.png",
+    "static/media/logo.png": "/https//Muhammed-tr.githup.io/Portfolio/static/media/logo.ef93825b911e219aedb9.png",
+    "index.html": "/https//Muhammed-tr.githup.io/Portfolio/index.html",
+    "main.278fa111.css.map": "/https//Muhammed-tr.githup.io/Portfolio/static/css/main.278fa111.css.map",
+    "main.72f91405.js.map": "/https//Muhammed-tr.githup.io/Portfolio/static/js/main.72f91405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.278fa111.css",
+    "static/js/main.72f91405.js"
+  ]
+}
